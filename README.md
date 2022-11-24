@@ -8,3 +8,7 @@ priyanka
 shubham
 aishwarya
 shivani
+solapur
+pune
+mumbai
+delhi
